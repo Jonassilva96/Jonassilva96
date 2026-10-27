@@ -1,142 +1,178 @@
-# 👋 Olá! Eu sou o Jonas da Silva
+# 👋 Olá, eu sou o Jonas da Silva!
 
-💻 **Profissional de TI | Suporte Técnico | Desenvolvimento de Sistemas**
+### 💻 Profissional de TI | Desenvolvimento Web | Tecnologia
 
-Sou profissional da área de Tecnologia da Informação, com experiência em **suporte técnico, manutenção e configuração de computadores, instalação de sistemas e softwares, resolução de problemas de hardware e software e atendimento a usuários**.
+Sou profissional de **Tecnologia da Informação**, com experiência em suporte técnico, manutenção e configuração de computadores, sistemas, redes e atendimento a usuários.
 
-Atualmente, estou direcionando minha carreira cada vez mais para **desenvolvimento de sistemas e desenvolvimento web**, buscando transformar meus conhecimentos técnicos em soluções práticas e eficientes.
+Atualmente, estou direcionando minha carreira para **desenvolvimento de sistemas e desenvolvimento web**, criando projetos para colocar meus conhecimentos em prática e evoluir constantemente como desenvolvedor.
 
-Tenho interesse em aprender continuamente, desenvolver projetos próprios e evoluir profissionalmente na área de tecnologia. 🚀
+> 🚀 **Transformando conhecimento em projetos, problemas em soluções e aprendizado em evolução.**
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🔧 Experiência com **manutenção e configuração de computadores**
-- 🖥️ Instalação e configuração de **Windows, softwares, drivers e periféricos**
-- 🌐 Conhecimentos de **redes, IP, Gateway e DNS**
-- 🎫 Experiência com **Help Desk / Service Desk**
-- 🛠️ Utilização de ferramentas como **GLPI e Microsoft Office**
-- 💻 Conhecimentos em **HTML, CSS e JavaScript**
-- 🌱 Estudando e evoluindo constantemente em **programação e desenvolvimento web**
-- 🔀 Utilizo **Git e GitHub** para versionamento e organização dos projetos
-- 🎯 Objetivo profissional: **crescer na área de desenvolvimento de sistemas**
+🔧 Experiência com **suporte técnico e infraestrutura de TI**
+
+🖥️ Manutenção, configuração e diagnóstico de **computadores e sistemas**
+
+🌐 Conhecimentos em **redes e conectividade**
+
+🎫 Experiência com **Help Desk / Service Desk**
+
+💻 Estudando e desenvolvendo projetos utilizando **HTML, CSS e JavaScript**
+
+🔀 Utilizo **Git e GitHub** para versionamento e organização dos meus projetos
+
+📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades
+
+🎯 **Objetivo:** atuar profissionalmente com desenvolvimento de sistemas
 
 ---
 
-## 🚀 Tecnologias e ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
 
-- HTML5
-- CSS3
-- JavaScript
-- Lógica de programação
-- Desenvolvimento Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 🖥️ Sistemas e Suporte
+### 🔧 Ferramentas
 
-- Windows 10 / 11
-- Manutenção de computadores
-- Configuração de periféricos
-- Impressoras
-- Instalação de softwares
-- Instalação e configuração de drivers
-- Diagnóstico e resolução de problemas de hardware e software
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-### 🌐 Redes
+### 🖥️ TI & Suporte
 
-- TCP/IP
-- Endereço IP
-- Gateway
-- DNS
-- Configuração básica de redes
-- Diagnóstico de problemas de conectividade
-
-### 🛠️ Ferramentas
-
-- Git
-- GitHub
-- Visual Studio Code
-- GLPI
-- Microsoft Office
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLPI-1F6FEB?style=for-the-badge" />
+</p>
 
 ---
 
-## 📂 Projetos
-
-Aqui estão alguns dos projetos que venho desenvolvendo para colocar meus conhecimentos em prática:
+## 🚀 Projetos em destaque
 
 ### 🏠 TocToc
 
-Projeto desenvolvido como parte do meu portfólio, com o objetivo de aplicar na prática conhecimentos de desenvolvimento e construção de soluções.
+Projeto desenvolvido para colocar em prática conhecimentos de desenvolvimento e construção de uma solução real.
 
-🔗 Confira os projetos disponíveis nos meus repositórios.
+🔗 **[Ver projeto no GitHub](#)**
+
+---
+
+### 💻 Outros projetos
+
+Estou constantemente desenvolvendo novos projetos para praticar programação, experimentar tecnologias e construir meu portfólio.
+
+📂 **[Ver todos os meus repositórios](https://github.com/Jonassilva96?tab=repositories)**
 
 ---
 
 ## 📚 Atualmente estudando
 
-Estou focado em fortalecer principalmente meus conhecimentos em:
+```text
+HTML / CSS
+████████████████████░░ 90%
 
-- JavaScript
-- Desenvolvimento Web
-- Lógica de programação
-- Git e GitHub
-- Estruturação de projetos
-- Boas práticas de desenvolvimento
-- Desenvolvimento de soluções práticas para problemas reais
+JavaScript
+███████████████░░░░░░ 75%
+
+Git / GitHub
+████████████████░░░░░ 80%
+
+Lógica de Programação
+████████████████░░░░░ 80%
+
+Desenvolvimento Web
+████████████░░░░░░░░░ 65%
+```
+
+> As porcentagens acima são apenas uma representação visual da minha jornada de aprendizado.
 
 ---
 
-## 🎯 Objetivos profissionais
+## 🎯 Objetivos
 
-Meu objetivo é continuar evoluindo na área de tecnologia e conquistar oportunidades que me permitam aplicar meus conhecimentos, aprender novas tecnologias e participar do desenvolvimento de projetos reais.
+Meu principal objetivo é continuar evoluindo profissionalmente e conquistar uma oportunidade onde eu possa:
 
-Tenho especial interesse em oportunidades relacionadas a:
+- Desenvolver soluções reais;
+- Trabalhar em equipe;
+- Aprender novas tecnologias;
+- Aplicar meus conhecimentos de programação;
+- Evoluir como desenvolvedor;
+- Contribuir para projetos que gerem valor.
 
-**Desenvolvimento de Sistemas • Desenvolvimento Web • Tecnologia da Informação • Suporte Técnico**
+### 🔎 Buscando oportunidades em
+
+**Desenvolvimento Web • Desenvolvimento de Sistemas • TI • Suporte Técnico**
 
 ---
 
-## 📊 Minha jornada
+## 📈 Minha evolução
 
 ```text
-TI / Suporte Técnico
-        │
-        ├── Hardware e Software
-        ├── Windows
-        ├── Redes
-        ├── Help Desk / Service Desk
-        └── GLPI
-                │
-                ▼
-        Desenvolvimento
-                │
-                ├── HTML
-                ├── CSS
-                ├── JavaScript
-                ├── Git / GitHub
-                └── Projetos próprios
-                │
-                ▼
-       🚀 Desenvolvimento de Sistemas
+              EXPERIÊNCIA EM TI
+                     │
+        ┌────────────┴────────────┐
+        │                         │
+     Suporte                   Infraestrutura
+        │                         │
+     Hardware                    Redes
+     Software                   Sistemas
+        │                         │
+        └────────────┬────────────┘
+                     │
+                     ▼
+               PROGRAMAÇÃO
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+        HTML        CSS    JavaScript
+          │          │          │
+          └──────────┼──────────┘
+                     │
+                     ▼
+             DESENVOLVIMENTO WEB
+                     │
+                     ▼
+              🚀 PROJETOS REAIS
 ```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonassilva96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonassilva96&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🤝 Vamos nos conectar?
 
-Estou sempre aberto a aprender, trocar conhecimentos e conhecer novas oportunidades na área de tecnologia.
-
-📧 **E-mail:** wjonassilva@gmail.com
-
-💼 **LinkedIn:** em breve
-
-🐙 **GitHub:** Jonassilva96
+<p>
+  <a href="mailto:wjonassilva@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jonassilva96">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💡 "Aprender, praticar e evoluir todos os dias."
+<p align="center">
+  <i>💡 Aprender • Praticar • Construir • Evoluir</i>
+</p>
 
-Obrigado por visitar meu perfil! 👋
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
