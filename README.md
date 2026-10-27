@@ -53,16 +53,6 @@ Meu objetivo é conquistar uma oportunidade de **estágio ou posição júnior e
 
 ---
 
-## 🚀 Projeto em destaque
-
-### 🏠 TocToc
-
-Projeto desenvolvido como parte do meu aprendizado em desenvolvimento, com foco em transformar conhecimentos de programação em uma aplicação prática.
-
-🔗 **[Ver projeto](#)**
-
----
-
 ## 📚 Atualmente estudando
 
 ### 🐍 Python
